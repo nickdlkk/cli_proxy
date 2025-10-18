@@ -76,6 +76,9 @@ src/
     ├── platform_helper.py     # 平台工具
     └── usage_parser.py        # 使用统计解析器
 ```
+
+更多文档: [代理实现逻辑概述](docs/proxy-implementation.md)
+
 ## 快速开始
 
 ### 安装
